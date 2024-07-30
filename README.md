@@ -1,0 +1,2 @@
+# setup-maneger
+softwere
